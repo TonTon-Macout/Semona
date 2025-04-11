@@ -33,11 +33,12 @@ Serial.println("ой');
 
 ## Скриншоты
 
-![Главное окно SEMONA](screenshots/main_window.png)  
-*Главное окно с ретро-темой и активным подключением*
+![Без имени-8](https://github.com/user-attachments/assets/d219311f-65d3-422c-a73c-01f55ba05d7c)
 
-![Настройки](screenshots/settings.png)  
-*Диалог настроек с выбором темы и цветов*
+
+
+![Снимок экрана 2025-04-12 012830](https://github.com/user-attachments/assets/ef79a70f-7708-46dc-87b3-014b1be71f14)
+
 
 ## Установка
 Установка не требуется, просто распакуйте и поместите в нужную папку
