@@ -23,7 +23,6 @@
 - перед сообщением который нужно отправить вывести метку
   например так 
 ```
-#define SIMBOL_NONE    0x00
 #define SIMBOL_INFO    0x01
 #define SIMBOL_WAR     0x02
 #define SIMBOL_ERR     0x03
