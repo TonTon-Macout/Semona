@@ -37,7 +37,6 @@ Serial.println("ой');
 
 
 
-![Снимок экрана 2025-04-12 012830](https://github.com/user-attachments/assets/ef79a70f-7708-46dc-87b3-014b1be71f14)
 
 
 ## Установка
@@ -76,6 +75,7 @@ Serial.println("ой');
 
 
 
+![Снимок экрана 2025-04-12 012830](https://github.com/user-attachments/assets/ef79a70f-7708-46dc-87b3-014b1be71f14)
 
 ---
 
