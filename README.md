@@ -6,7 +6,7 @@
 
 Вдохновлена Монитором порта Arduino IDE, но без ардуино, без иде и с некоторыми плюшками
 
-[ссылка](https://github.com/TonTon-Macout/Semona/releases/latest/download/Semona.zip) на последнюю версию (zip архив с иконками)
+[скачать](https://github.com/TonTon-Macout/Semona/releases/latest/download/Semona.zip) последнюю версию (zip архив с иконками)
 
 ## Особенности
 
